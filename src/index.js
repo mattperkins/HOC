@@ -4,6 +4,7 @@ import registerServiceWorker from './registerServiceWorker'
 // Modest Grid linked via public/index.html
 import './css/reset.css'
 import './css/splash.css'
+import App from './App'
 
 // main ("ROOT") component 
 class Root extends React.Component {
